@@ -53,7 +53,7 @@ Adam optimizer and binary cross-entropy loss function
 
 
 📊 Results
-After training for 50 epochs, the model achieves approximately 92% accuracy on the test set.
+After training for 100 epochs, the model achieves approximately 92% accuracy on the test set.
 
 💡 Potential Improvements
 Hyperparameter tuning (number of layers, neurons, learning rate)
