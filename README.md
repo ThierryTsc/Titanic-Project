@@ -1,4 +1,5 @@
 🚢 Titanic - Predicting Survival with a Neural Network
+
 This project applies a neural network to predict Titanic passengers' survival based on their characteristics. The goal is to explore the use of TensorFlow/Keras to solve a binary classification problem.
 
 📂 Dataset
