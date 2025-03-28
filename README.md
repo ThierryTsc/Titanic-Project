@@ -2,6 +2,8 @@
 
 This project applies a neural network to predict Titanic passengers' survival based on their characteristics. The goal is to explore the use of TensorFlow/Keras to solve a binary classification problem.
 
+
+
 📂 Dataset
 The dataset includes various passenger attributes, such as:
 
@@ -21,6 +23,9 @@ Fare: Ticket price
 
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
+
+
+
 🛠 Technologies Used
 Python
 
@@ -29,6 +34,9 @@ Pandas & NumPy (data preprocessing)
 Scikit-learn (scaling and train/test split)
 
 TensorFlow/Keras (neural network model)
+
+
+
 
 🚀 Neural Network Model
 The model is a fully connected neural network (MLP) with:
@@ -40,6 +48,9 @@ Two hidden layers with ReLU activation
 A final output layer with sigmoid activation for binary classification
 
 Adam optimizer and binary cross-entropy loss function
+
+
+
 
 📊 Results
 After training for 50 epochs, the model achieves approximately X% accuracy on the test set (adjust based on your results).
